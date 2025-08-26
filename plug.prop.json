@@ -4,8 +4,8 @@
     "icon": "fas fa-cog",
     "url": "jobs",
     "styles": "",
-    "parent": "",
-    "order" : "",
+    "parent": NULL,
+    "order" : "1",
     "is_active" : 1
   }
 }
