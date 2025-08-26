@@ -6,6 +6,7 @@
     "styles": "",
     "parent": null,
     "order" : "1",
-    "is_active" : 1
+    "is_active" : 1,
+    "submenu" : []
   }
 }
